@@ -9,13 +9,10 @@ This repository contains an Excel-based interactive dashboard created to analyze
 - **Product Analysis**: Highlights top-selling products and unit sales.  
 - **Visualizations**: Includes pie charts, line charts, and a map for intuitive insights.  
 
-## 📁 File Structure  
-- `Data/`: Contains anonymized sales and product data in CSV format.  
-- `Images/`: Screenshots and visual components of the dashboard.  
-- `Dashboard/`: The complete Excel dashboard file.  
-- `Documentation/`: A detailed project overview PDF.  
+
 
 ## 🛠️ Tools Used  
 - **Microsoft Excel** for data processing and visualization.  
 - **Charts & Maps** for creating insightful visual representations.  
 
+![Screenshot 2024-12-27 214005](https://github.com/user-attachments/assets/6ee65199-ab87-42ff-9acb-7fbcaf81008e)
